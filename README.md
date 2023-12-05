@@ -1,5 +1,7 @@
 # Scammer LGS Stats Script
 This is the poorly written script used to aggregate all match result data after every match. 
+Results from past drafts aggregated here: https://elo-theta.vercel.app/home  
+Shoddily written front end code here: https://github.com/simonhcui/elo
 
 ## Setup
 First install Python https://www.python.org/downloads/
